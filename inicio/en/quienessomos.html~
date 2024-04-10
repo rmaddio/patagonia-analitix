@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<!--
+	Monochromed by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>GWB Argentina</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="gwb","agua","subterranea","recursos hidricos","chaco", "impenetrable" />
+		<link href='http://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	</head>
+
+	<body class="homepage">
+
+	<!-- Header -->
+		<div id="header">
+			<div class="container">
+					
+				<!-- Logo -->
+					<div id="logo">
+						<h1><a href="#">GWB Argentina</a></h1>
+						<span>UNLP & GWB</span>
+					</div>
+				
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li class="active"><a href="index.html">Index</a></li>
+							<li><a href="gwb.html">GWB</a></li>		
+							<li><a href="objetivos.html">The project</a></li>
+							<li><a href="novedades.html">News</a></li>
+							<li><a href="quienessomos.html">Who we are?</a></li>
+							<li><a href="contacto.html">Contact</a></li>
+						</ul>
+					</nav>
+
+			</div>
+		</div>
+	<!-- Header -->		
+			
+	<!-- Main -->
+		<div id="main">
+			<div class="container">
+				<div class="row">
+
+					<!-- Content -->
+						<div id="content" class="12u skel-cell-important">
+							<section>
+								<header>
+									<h2>¿Quiénes somos?</h2>
+									<span class="byline"></span>
+								</header>
+								<p><a href="#" class="image full"><img src="images/quienessomos.jpg" alt=""></a></p>
+								<p>La problemática con respecto a los recursos hídricos en la región del Impenetrable (Provincia de Chaco) es muy amplia, ya que el agua no solo escasea, sino que está ampliamente contaminada. Por eso, para intentar abordarla es necesario contar con diversas disciplinas.</p>
+								<p>Por ello participan de este proyecto diversas Facultades de la Universidad Nacional de La Plata. Éstas trabajan en sus áres de especialidad, como la Facultad de Exactas estudiando la contaminación del agua o la Facultad de Ciencias Naturales y Museo y <a href="http://www.fcaglp.unlp.edu.ar"> la Facultad de Ciencias Astronómicas y Geofísicas</a> realizando la búsqueda de agua. Además, como esta problemática no existe únicamente en la región de Miraflores, la Facultad de Bellas Artes documentará el proyecto y sus actividades para una posterior difusión y visibilización de las condiciones de la región.</p>
+								<p>También participa el Capítulo Estudiantil de S.E.G. (Society of Exploration Geophysicist) de la Facultad de Ciencias Astronómicas y Geofísicas, la cual es la sede del proyecto.</p>
+					<p>Si querés ser parte del Proyecto, o querés aportar y/o colaborar, contactate con nosotros.</p>
+					<p></p>
+							</section>
+						</div>
+					<!-- /Content -->
+						
+				</div>
+			
+			</div>
+		</div>
+	<!-- Main -->
+
+
+
+	<!-- Copyright -->
+		<div id="copyright">
+			<div class="container">
+				Design: <a href="http://templated.co">TEMPLATED</a> 
+			</div>
+		</div>
+
+	</body>
+</html>
